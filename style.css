@@ -6,6 +6,11 @@
 body { 
   font-family: 'montserrat' , sans-serif;
   padding-top: 220px;
+
+  background-image: url(images/bg-dandelions.png);
+  background-repeat: no-repeat;
+  background-position: 85px 0;
+  background-size: 790px 697px;
 }
 
 
